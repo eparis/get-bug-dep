@@ -1,5 +1,5 @@
 package function
 
 func PrintFunc() string {
-	return "In MASTER\n"
+	return "In BRANCHNAME\n"
 }
